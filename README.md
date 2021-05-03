@@ -1,3 +1,3 @@
 # selenium-automation
 
-# This reporsitory is a dump for my selenium project
+### This reporsitory is a dump for my selenium project
